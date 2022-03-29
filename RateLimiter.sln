@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimiter", "RateLimiter\RateLimiter.csproj", "{9B53FD7C-8F0D-46FC-94F2-9782E4190005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{123C448E-EC8E-4152-B1E3-23CD4B9F39BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B53FD7C-8F0D-46FC-94F2-9782E4190005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B53FD7C-8F0D-46FC-94F2-9782E4190005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B53FD7C-8F0D-46FC-94F2-9782E4190005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B53FD7C-8F0D-46FC-94F2-9782E4190005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123C448E-EC8E-4152-B1E3-23CD4B9F39BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C448E-EC8E-4152-B1E3-23CD4B9F39BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C448E-EC8E-4152-B1E3-23CD4B9F39BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C448E-EC8E-4152-B1E3-23CD4B9F39BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
